@@ -1,0 +1,6 @@
+---
+layout: default
+title: About this Site
+---
+
+I haven't blogged in over 10 years and I wanted to get back into it. I don't think _blog_ was even a word then.  My first site was written in vi or notepad as plain html files and now, this site is hardly any different.  I'm using vi and writing these posts as individual text file.  I'm experimenting with "Jekyll":http://github.com/mojombo/jekyll to generate the html code and it's being hosted on github.  So far, so good.  
