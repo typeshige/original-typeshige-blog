@@ -3,7 +3,9 @@ body {
 }
 
 #title {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Arial, sans-serif;
 	background-color:#222;
 	color:#fff;
-	font-size:10px;
+	padding: 3px;
+	font-size:11px;
 }
