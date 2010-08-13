@@ -1,11 +1,15 @@
 body {
 	background-color: #ffffff;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Arial, sans-serif;
+	font-size:11px;
 }
 
 #title {
-	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Arial, sans-serif;
 	background-color:#222;
 	color:#fff;
 	padding: 3px;
-	font-size:11px;
+}
+
+.posts div {
+	background-color: #d4d4d4;
 }
