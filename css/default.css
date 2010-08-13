@@ -20,4 +20,9 @@ body {
 
 .post h2 a {
 	text-decoration: none;
+	color: #000;
+}
+
+.post h2 a:hover {
+	text-decoration: underline;
 }
