@@ -17,3 +17,7 @@ body {
 .post h2 {
 	font-size: 17px;
 }
+
+.post h2 a {
+	text-decoration: none;
+}
